@@ -18,17 +18,17 @@ A Quotes Application built to Demonstrate the use of mySQL Compose for building 
 ## Screenshots
 
 <p float="center">
- <img src="https://user-images.githubusercontent.com/101611806/191282676-ba7df364-73cb-472f-8514-c2329a4f6f67.png" width=22% height=35%>
+ <img src="https://user-images.githubusercontent.com/101611806/191282676-ba7df364-73cb-472f-8514-c2329a4f6f67.png" width=25% height=35%>
 
-<img src="https://user-images.githubusercontent.com/101611806/191281664-695f9599-5af8-4264-9421-7ab57deb0a95.png" width=22% height=35%>
+<img src="https://user-images.githubusercontent.com/101611806/191281664-695f9599-5af8-4264-9421-7ab57deb0a95.png" width=25% height=35%>
   
-<img src="https://user-images.githubusercontent.com/101611806/191281668-e3e616d9-4aaa-4f2c-b336-dd9b51bc5c36.png" width=22% height=35%>
+<img src="https://user-images.githubusercontent.com/101611806/191281668-e3e616d9-4aaa-4f2c-b336-dd9b51bc5c36.png" width=25% height=35%>
 
-<img src="https://user-images.githubusercontent.com/101611806/191282692-aa0339cb-eb17-4198-8eb4-3fa07f39d32a.png" width=22% height=35%>
+<img src="https://user-images.githubusercontent.com/101611806/191282692-aa0339cb-eb17-4198-8eb4-3fa07f39d32a.png" width=25% height=35%>
 
-<img src="https://user-images.githubusercontent.com/101611806/191281702-89b3e0bd-d9e3-4300-acae-60c272cd8edc.png" width=22% height=35%>
+<img src="https://user-images.githubusercontent.com/101611806/191281702-89b3e0bd-d9e3-4300-acae-60c272cd8edc.png" width=25% height=35%>
 
-<img src="https://user-images.githubusercontent.com/101611806/191282231-78e3ad25-bb43-471c-99f1-dddc4ff90adb.png" width=22% height=35%>
+<img src="https://user-images.githubusercontent.com/101611806/191282231-78e3ad25-bb43-471c-99f1-dddc4ff90adb.png" width=25% height=35%>
   
 </p>
 
